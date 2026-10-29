@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Disney/Pixar Toy Story 3 Complete Edition",
+    "titleId": "PPSA33626",
+    "platform": "ps5",
+    "size": 7980923394,
+    "storageId": "usb0",
+    "downloaded": 0,
+    "transferred": 0,
+    "state": "cancelled",
+    "failureStage": "download",
+    "errorHint": ""
+  },
+  {
+    "title": "Disney/Pixar Toy Story 3 Complete Edition",
+    "titleId": "PPSA33626",
+    "platform": "ps5",
+    "size": 7980923394,
+    "storageId": "internal",
+    "downloaded": 1271922688,
+    "transferred": 0,
+    "state": "downloading",
+    "failureStage": null,
+    "errorHint": null
+  }
+]
